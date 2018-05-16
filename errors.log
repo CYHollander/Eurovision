@@ -1,0 +1,315 @@
+DEBUG:root:Eurovision1956.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1980.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1981.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1982.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1983.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1984.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1985.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1986.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1987.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1988.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1989.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1990.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1991.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1992.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1993.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1994.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1995.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1996.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision1999.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision1999.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision2000.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2001.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2002.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2002.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision2003.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2004.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2004.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision2005.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2006.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2006.html
+'NoneType' object has no attribute 'find_next'
+20
+		result_table=ev.find(id="Results").find_next("table").find_all("tr")
+
+DEBUG:root:Eurovision2006.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision2007.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2007.html
+'NoneType' object has no attribute 'find_next'
+20
+		result_table=ev.find(id="Results").find_next("table").find_all("tr")
+
+DEBUG:root:Eurovision2008.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2008.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision2009.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2009.html
+'NoneType' object has no attribute 'find_next'
+20
+		result_table=ev.find(id="Results").find_next("table").find_all("tr")
+
+DEBUG:root:Eurovision2009.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision2010.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2010.html
+'NoneType' object has no attribute 'find_next'
+20
+		result_table=ev.find(id="Results").find_next("table").find_all("tr")
+
+DEBUG:root:Eurovision2010.html
+'NoneType' object has no attribute 'find_next'
+27
+		vote_table = ev.find(id="Scoreboard").find_next("table").find_all("tr")[2:]
+
+DEBUG:root:Eurovision2011.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2011.html
+'NoneType' object has no attribute 'find_next'
+20
+		result_table=ev.find(id="Results").find_next("table").find_all("tr")
+
+DEBUG:root:Eurovision2011.html
+invalid literal for int() with base 10: 'Lithuania'
+29
+		contents1 = [[int(td.get_text().strip()) if td.get_text()!= '' else 0 for td in row.find_all("td")[2:]] for row in vote_table]
+
+DEBUG:root:Eurovision2012.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2012.html
+'NoneType' object has no attribute 'find_next'
+20
+		result_table=ev.find(id="Results").find_next("table").find_all("tr")
+
+DEBUG:root:Eurovision2012.html
+invalid literal for int() with base 10: 'Albania'
+29
+		contents1 = [[int(td.get_text().strip()) if td.get_text()!= '' else 0 for td in row.find_all("td")[2:]] for row in vote_table]
+
+DEBUG:root:Eurovision2013.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2013.html
+invalid literal for int() with base 10: '3.33'
+29
+		contents1 = [[int(td.get_text().strip()) if td.get_text()!= '' else 0 for td in row.find_all("td")[2:]] for row in vote_table]
+
+DEBUG:root:Eurovision2014.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2014.html
+invalid literal for int() with base 10: 'Netherlands'
+29
+		contents1 = [[int(td.get_text().strip()) if td.get_text()!= '' else 0 for td in row.find_all("td")[2:]] for row in vote_table]
+
+DEBUG:root:Eurovision2015.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2015.html
+'NoneType' object has no attribute 'find_next'
+20
+		result_table=ev.find(id="Results").find_next("table").find_all("tr")
+
+DEBUG:root:Eurovision2015.html
+invalid literal for int() with base 10: 'Russia'
+29
+		contents1 = [[int(td.get_text().strip()) if td.get_text()!= '' else 0 for td in row.find_all("td")[2:]] for row in vote_table]
+
+DEBUG:root:Eurovision2016.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2016.html
+'NoneType' object has no attribute 'find_next'
+20
+		result_table=ev.find(id="Results").find_next("table").find_all("tr")
+
+DEBUG:root:Eurovision2016.html
+invalid literal for int() with base 10: 'Malta'
+29
+		contents1 = [[int(td.get_text().strip()) if td.get_text()!= '' else 0 for td in row.find_all("td")[2:]] for row in vote_table]
+
+DEBUG:root:Eurovision2017.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2017.html
+'NoneType' object has no attribute 'find_next'
+20
+		result_table=ev.find(id="Results").find_next("table").find_all("tr")
+
+DEBUG:root:Eurovision2017.html
+invalid literal for int() with base 10: 'Portugal'
+29
+		contents1 = [[int(td.get_text().strip()) if td.get_text()!= '' else 0 for td in row.find_all("td")[2:]] for row in vote_table]
+
+DEBUG:root:Eurovision2018.html
+'NoneType' object has no attribute 'find_next'
+13
+		conductors = ev.find(id="Conductors").find_next("ul").find_all("li")
+
+DEBUG:root:Eurovision2018.html
+'NoneType' object has no attribute 'find_next'
+20
+		result_table=ev.find(id="Results").find_next("table").find_all("tr")
+
+DEBUG:root:Eurovision2018.html
+invalid literal for int() with base 10: 'Israel'
+29
+		contents1 = [[int(td.get_text().strip()) if td.get_text()!= '' else 0 for td in row.find_all("td")[2:]] for row in vote_table]
+
