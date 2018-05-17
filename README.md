@@ -1,0 +1,10 @@
+# Eurovision
+crawling Wikipedia's entries about Eurovision
+
+I used Scrapy to grab the series of pages at https://en.wikipedia.org/wiki/Eurovision_Song_Contest_ *yyyy*, which contain various tables of information about the results of the Eurovision Song Contest in each year, from the countries competing, to the singers, titles, and languages of the songs they sent to contest, to the votes they cast for one another. I used Beautiful Soup to parse this data from the raw HTML of the Wikipedia pages, and Pandas to format it into dataframes and export them to CSV files.
+
+All this was just preparation to do something interesting with this data. There were many things I was interested in examining, from the tendencies (if any) of various countries to vote for one another, to the language chosen, and whether English really does do better. Perhaps most of all, I was interested in using this trove of contest rankings as a test bed for different systems of aggregating votes, such as Instant Runoff Voting. Virtually implementing various alternatives and seeing how the results differed would allow me to get an [admittedly subjective] impression of how well they worked.
+
+Sadly, I once again underestimated the time the tedious data-gathering stages would take me, and by the time I finally got all the kinks out of my parsing, I had barely any time left for the fun part. I put up a Shiny App allowing a user to sort through the most basic data in graphical format (scatter plots depicting the results by country or by year), and that's all I managed to finish before my time ran out.
+
+I'm not going to make any bones about it: as it currently stands, this project is very insipid. There's really nothing to interest you here, dear reader. I am unhappy about this, and plan to implement some more of my ideas in the next couple of days, so I have a little more to show you, but for now, this is it.
